@@ -1,0 +1,13 @@
+{
+    "name": "Test reusable workflow",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "octicon beaker",
+    "categories": [
+        "testing"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
